@@ -1,16 +1,122 @@
-## Hi there 👋
+# 👋 Hola, soy Wilmer Narváez
 
-<!--
-**WilmerNarvaez/WilmerNarvaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Analista de Seguridad | SOC | DBA | Python Developer en formación
 
-Here are some ideas to get you started:
+Soy un profesional de TI enfocado en **Ciberseguridad, Bases de Datos y Automatización**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente trabajo como **Analista de Seguridad y DBA**, donde participo en actividades relacionadas con:
+
+* 🔍 Monitoreo y análisis de eventos de seguridad
+* 🛡️ DLP (Data Loss Prevention)
+* 📊 Administración de Bases de Datos
+* 🚨 Gestión de Incidentes
+* 🤖 Automatización con Python
+* ☁️ Seguridad en la nube
+
+Mi objetivo es evolucionar hacia roles especializados en:
+
+* Cybersecurity Engineering
+* DevSecOps
+* Cloud Security
+* Threat Hunting
+* Security Automation
+
+---
+
+## 🚀 Tecnologías y Herramientas
+
+### Seguridad
+
+![SIEM](https://img.shields.io/badge/SIEM-blue?style=for-the-badge)
+![DLP](https://img.shields.io/badge/DLP-orange?style=for-the-badge)
+![Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
+
+### Bases de Datos
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+
+### Programación
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
+
+### Sistemas Operativos
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 📚 Actualmente Aprendiendo
+
+* Python para Ciberseguridad
+* SQL
+* DevSecOps
+* HashiCorp Vault
+* Docker
+* SC-900
+
+---
+
+## 🏆 Certificaciones
+
+* 📖 CompTIA Security+ (En preparación)
+* 📖 Microsoft SC-900 (En preparación)
+* 📖 Google Cloud Digital Leader (En preparación)
+* 📖 PCNSA Palo Alto (En preparación)
+
+---
+
+## 📂 Proyectos del Portafolio
+
+### 🔐 Cybersecurity
+
+* Mini SIEM en Python
+* Monitor de Integridad de Archivos (FIM)
+* Threat Intelligence Collector
+* Analizador de Logs
+* Dashboard de Incidentes
+
+### 🗄️ Bases de Datos
+
+* Dashboard de Auditoría SQL
+* Sistema de Gestión de Incidentes
+* Monitoreo de Bases de Datos
+
+### 🤖 Automatización
+
+* Scripts de Hardening
+* Automatización de Reportes
+* Integración Python + SQL
+
+---
+
+## 📈 Estadísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilmerNarvaez\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilmerNarvaez\&layout=compact)
+
+---
+
+## 📫 Contacto
+
+* LinkedIn: https://www.linkedin.com/in/TU-USUARIO
+* Correo: [tu_correo@ejemplo.com](mailto:tu_correo@ejemplo.com)
+
+---
+
+### ⚡ Frase Profesional
+
+> "La seguridad no es un producto, es un proceso continuo de mejora."
