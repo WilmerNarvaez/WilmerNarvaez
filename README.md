@@ -38,13 +38,13 @@ Mi objetivo es evolucionar hacia roles especializados en:
 ### Bases de Datos
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
 ### Programación
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Bash](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=bash\&logoColor=white)
 
 ### Sistemas Operativos
 
