@@ -36,14 +36,14 @@ Mi objetivo es evolucionar hacia roles especializados en:
 
 ### Bases de Datos
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-#008ef8?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Programación
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-![Bash](https://img.shields.io/badge/Bash23-68217A?style=for-the-badge\&logo=bash\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-68217A?style=for-the-badge\&logo=bash\&logoColor=white)
 
 ### Sistemas Operativos
 
@@ -107,9 +107,9 @@ Mi objetivo es evolucionar hacia roles especializados en:
 
 ## 📈 Estadísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilmerNarvaez\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilmerNarvaez&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilmerNarvaez\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilmerNarvaez&layout=compact)
 
 ---
 
