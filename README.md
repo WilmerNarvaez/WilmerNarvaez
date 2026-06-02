@@ -33,18 +33,17 @@ Mi objetivo es evolucionar hacia roles especializados en:
 
 ![SIEM](https://img.shields.io/badge/SIEM-blue?style=for-the-badge)
 ![DLP](https://img.shields.io/badge/DLP-orange?style=for-the-badge)
-![Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
 
 ### Bases de Datos
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-#008ef8?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### Programación
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-![Bash](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=bash\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash23-68217A?style=for-the-badge\&logo=bash\&logoColor=white)
 
 ### Sistemas Operativos
 
