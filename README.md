@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Wilmer Narváez Banner" width="100%">
+</p>
+
 # 👋 Hola, soy Wilmer Narváez
 
 ### 🔐 Analista de Seguridad | SOC | DBA | Python Developer en formación
@@ -112,8 +116,8 @@ Mi objetivo es evolucionar hacia roles especializados en:
 
 ## 📫 Contacto
 
-* LinkedIn: https://www.linkedin.com/in/TU-USUARIO
-* Correo: [tu_correo@ejemplo.com](mailto:tu_correo@ejemplo.com)
+* LinkedIn: https://www.linkedin.com/in/wilmer-rafael-narvaez21
+* Correo: [wilmer-endo@hotmail.com](mailto:wilmer-endo@hotmail.com)
 
 ---
 
