@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png" alt="Wilmer Narváez Banner" width="100%">
+  <img src=".assets/Banner_Wilmer.png" alt="Wilmer Narváez Banner" width="100%">
 </p>
 
 # 👋 Hola, soy Wilmer Narváez
