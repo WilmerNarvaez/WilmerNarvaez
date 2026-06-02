@@ -72,12 +72,17 @@ Mi objetivo es evolucionar hacia roles especializados en:
 
 ---
 
-## 🏆 Certificaciones
+## 🏅 Certificaciones
 
-* 📖 CompTIA Security+ (En preparación)
-* 📖 Microsoft SC-900 (En preparación)
-* 📖 Google Cloud Digital Leader (En preparación)
-* 📖 PCNSA Palo Alto (En preparación)
+### Actualmente estudiando
+
+- 📖 Microsoft SC-900 (En preparación)
+
+### Próximas certificaciones
+
+- 📖 ISO/IEC 27001 Foundations
+- 📖 Google Cloud Digital Leader
+- 📖 PCNSA Palo Alto Networks
 
 ---
 
@@ -105,13 +110,17 @@ Mi objetivo es evolucionar hacia roles especializados en:
 
 ---
 
-## 📈 Estadísticas GitHub
+## 🎯 Objetivos Profesionales
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilmerNarvaez&show_icons=true)
+Actualmente estoy desarrollando habilidades en:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilmerNarvaez&layout=compact)
+- 🔐 Ciberseguridad Defensiva
+- 📊 Administración de Bases de Datos
+- 🐍 Automatización con Python
+- ☁️ Cloud Security
+- 🚀 DevSecOps
 
----
+Mi meta es convertirme en un especialista en Seguridad Ofensiva y Defensiva con enfoque en automatización y seguridad en la nube.
 
 ## 📫 Contacto
 
