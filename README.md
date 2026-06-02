@@ -2,13 +2,15 @@
   <img src="./assets/Banner_Wilmer.png" alt="Wilmer Narváez Banner" width="100%">
 </p>
 
-# 👋 Hola, soy Wilmer Narváez
-
+<h2>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBwMnFzN2Y5cXVnaWJ6dm93Ym53bnY3bmRuc3cwNTcwbzJvYzBseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="35" style="position:relative; top5ox"> Bienvenido a mi espacio digital.
+</h2>
+  
 ### 🔐 Analista de Seguridad | SOC | DBA | Python Developer en formación
 
 Soy un profesional de TI enfocado en **Ciberseguridad, Bases de Datos y Automatización**.
 
-Actualmente trabajo como **Analista de Seguridad y DBA**, donde participo en actividades relacionadas con:
+He trabajado como **Analista de Seguridad y DBA**, participando en actividades relacionadas con:
 
 * 🔍 Monitoreo y análisis de eventos de seguridad
 * 🛡️ DLP (Data Loss Prevention)
