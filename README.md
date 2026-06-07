@@ -6,8 +6,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBwMnFzN2Y5cXVnaWJ6dm93Ym53bnY3bmRuc3cwNTcwbzJvYzBseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="35" style="position:relative; top5ox"> Bienvenido a mi espacio digital.
 </h2>
   
-### 🔐 Analista de Seguridad | SOC | DBA | Python Developer en formación
-
+### 🔐 Analista de Seguridad | SOC | DBA | DevOps
 Soy un profesional de TI enfocado en **Ciberseguridad, Bases de Datos y Automatización**.
 
 He trabajado como **Analista de Seguridad y DBA**, participando en actividades relacionadas con:
@@ -88,29 +87,23 @@ Mi objetivo es evolucionar hacia roles especializados en:
 
 ---
 
-## 📂 Proyectos del Portafolio
+## 📂 Proyectos Destacados
 
-### 🔐 Cybersecurity
+### 🚀 OpenProject sobre Docker y Rocky Linux
 
-* Mini SIEM en Python
-* Monitor de Integridad de Archivos (FIM)
-* Threat Intelligence Collector
-* Analizador de Logs
-* Dashboard de Incidentes
+Plataforma de gestión de proyectos desplegada mediante contenedores Docker sobre Rocky Linux.
 
-### 🗄️ Bases de Datos
+**Tecnologías:** Rocky Linux, Docker, Docker Compose, PostgreSQL, OpenProject
 
-* Dashboard de Auditoría SQL
-* Sistema de Gestión de Incidentes
-* Monitoreo de Bases de Datos
+**Lo que aprendí:**
 
-### 🤖 Automatización
+* Administración básica de Linux.
+* Gestión de contenedores Docker.
+* Despliegue de aplicaciones empresariales.
+* Persistencia de datos con PostgreSQL.
+* Gestión de proyectos mediante OpenProject.
 
-* Scripts de Hardening
-* Automatización de Reportes
-* Integración Python + SQL
-
----
+🔗 [Ver Proyecto](URL)
 
 ## 🎯 Objetivos Profesionales
 
