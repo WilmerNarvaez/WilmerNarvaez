@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Banner_Wilmer.png" alt="Wilmer Narváez Banner" width="100%">
+  <img src="./assets/Banner_New_Wili.png" alt="Wilmer Narváez Banner" width="100%">
 </p>
 
 <h2>
