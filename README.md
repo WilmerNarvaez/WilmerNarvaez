@@ -15,7 +15,6 @@ He trabajado como **Analista de Seguridad y DBA**, participando en actividades r
 * 🛡️ DLP (Data Loss Prevention)
 * 📊 Administración de Bases de Datos
 * 🚨 Gestión de Incidentes
-* 🤖 Automatización con Python
 * ☁️ Seguridad en la nube
 
 Mi objetivo es evolucionar hacia roles especializados en:
@@ -79,15 +78,9 @@ Mi objetivo es evolucionar hacia roles especializados en:
 
 - 📖 Microsoft SC-900 (En preparación)
 
-### Próximas certificaciones
-
-- 📖 ISO/IEC 27001 Foundations
-- 📖 Google Cloud Digital Leader
-- 📖 PCNSA Palo Alto Networks
-
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Proyectos
 
 ### 🚀 OpenProject sobre Docker y Rocky Linux
 
@@ -110,8 +103,6 @@ Plataforma de gestión de proyectos desplegada mediante contenedores Docker sobr
 Actualmente estoy desarrollando habilidades en:
 
 - 🔐 Ciberseguridad Defensiva
-- 📊 Administración de Bases de Datos
-- 🐍 Automatización con Python
 - ☁️ Cloud Security
 - 🚀 DevSecOps
 
